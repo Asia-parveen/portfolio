@@ -109,7 +109,7 @@ const Hero = () => {
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center md:justify-start">
             <motion.a
-              href="/asia_parveen_resume.pdf"
+              href="/asia_parveenCV.pdf"
               download
               className="px-8 py-4 rounded-full font-semibold border-2 border-cyan-400 text-[#34d399] hover:text-black hover:bg-[#34d399] transition-all duration-300 ease-in-out shadow-md flex items-center gap-2 justify-center"
               variants={buttonVariants}
